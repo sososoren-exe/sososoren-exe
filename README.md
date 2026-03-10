@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Søren👋</br>
 
-<!--
-**sososoren-exe/sososoren-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎂 19</br>
+😄 Pronouns: she/they</br>
+🐧 Linux user (on EndeavourOS)</br>
+💻 python learner documenting the journey</br>
+🔐 aspiring cybersecurity engineer/ethical hacker</br>
+🧠 interested in digital forensics and security</br>
+🎸 grunge singer and guitarist</br>
+🖤 lover of history, philosophy & psychology</br>
+🌙 wide awake at questionable hours</br>
+🔋 powered by delusion and curiosity</br>
+📫 how to reach me: sososoren.exe@gmail.com</br>
