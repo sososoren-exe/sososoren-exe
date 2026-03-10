@@ -14,9 +14,9 @@
 
 
 ## 🌐 Socials:
-[Bluesky](https://bsky.app/profile/sososoren-exe.bsky.social) 
-[Instagram](https://instagram.com/@sososoren.exe)
-[Mastodon](https://mastodon.social/@sososoren@mastodon.social)
+[Bluesky](https://bsky.app/profile/sososoren-exe.bsky.social)</br>
+[Instagram](https://instagram.com/@sososoren.exe)</br>
+[Mastodon](https://mastodon.social/@sososoren@mastodon.social)</br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
